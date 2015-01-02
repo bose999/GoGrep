@@ -50,6 +50,7 @@ Mac book pro 15 retina 2013(Corei7/Mem16GB/SSD 512GB)
 ## 3回実行した結果
 grep 約14秒〜15秒、goGrep 約3秒。  
 Mac OS Xの標準のgrepより早く処理しています。 
+
     % ./grep-time.sh
     GoGrep & Grep 実行
     GoGrep
